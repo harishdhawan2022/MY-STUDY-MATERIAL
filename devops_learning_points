@@ -1,1 +1,5 @@
-
+1. Developers codes are being reviewes by their developer's manager only.
+2. Any Changes in the YAML, teraform,json,scripts,k8s,docker file are beings changes, comit, push, review, approve process in the
+   DevOps side managers
+3. PR :- Pull requests are to be reviewd by manager and they can track the file changes with the symbol the +/add/plus - minus/remove
+4. One PR can have multiple commits
